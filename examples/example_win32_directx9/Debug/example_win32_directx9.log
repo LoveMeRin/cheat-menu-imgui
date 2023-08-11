@@ -1,0 +1,14 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  etc_elements.cpp
+  main.cpp
+C:\Users\vanss\Downloads\claritytipa\claritytipa\examples\example_win32_directx9\main.cpp(145,34): warning C4459: declaration of 'combo' hides global declaration
+C:\Users\vanss\Downloads\claritytipa\claritytipa\examples\example_win32_directx9\byte_array.h(18993,15): message : see declaration of 'combo'
+  nav_elements.cpp
+  Generating Code...
+  example_win32_directx9.vcxproj -> C:\Users\vanss\Downloads\claritytipa\claritytipa\examples\example_win32_directx9\Debug\example_win32_directx9.exe
